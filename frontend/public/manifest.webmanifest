@@ -1,0 +1,33 @@
+{
+  "name": "Codex Access Admin",
+  "short_name": "Access Admin",
+  "description": "Mobile admin console for Codex Access",
+  "start_url": "/admin/mobile",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f3ea",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "580x560",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "手机控制台",
+      "short_name": "控制台",
+      "url": "/admin/mobile",
+      "icons": [{ "src": "/logo.png", "sizes": "580x560", "type": "image/png" }]
+    },
+    {
+      "name": "用户管理",
+      "short_name": "用户",
+      "url": "/admin/users",
+      "icons": [{ "src": "/logo.png", "sizes": "580x560", "type": "image/png" }]
+    }
+  ]
+}

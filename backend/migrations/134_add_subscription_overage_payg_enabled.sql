@@ -1,0 +1,2 @@
+ALTER TABLE users
+ADD COLUMN IF NOT EXISTS subscription_overage_payg_enabled BOOLEAN NOT NULL DEFAULT FALSE;
