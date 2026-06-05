@@ -1,4 +1,4 @@
-# Sub2API
+# Xiaosen AI Relay
 
 <div align="center">
 
@@ -8,15 +8,16 @@
 [![Redis](https://img.shields.io/badge/Redis-7+-DC382D.svg)](https://redis.io/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg)](https://www.docker.com/)
 
-<a href="https://trendshift.io/repositories/21823" target="_blank"><img src="https://trendshift.io/api/badge/repositories/21823" alt="Wei-Shaw%2Fsub2api | Trendshift" width="250" height="55"/></a>
-
-**AI API 网关平台 - 订阅配额分发管理**
+**基于 Sub2API 的开源 AI API 中转网关**
 
 [English](README.md) | 中文 | [日本語](README_JA.md)
 
 </div>
 
 > **Sub2API 官方仅使用  `sub2api.org` 与 `pincc.ai` 两个域名。其他使用 Sub2API 名义的网站可能为第三方部署或服务，与本项目无关，请自行甄别。**
+
+本仓库是定制中转站项目的脱敏开源快照，基于 Sub2API，已排除私有运行数据、凭据、构建产物、日志和本地依赖目录。
+
 ---
 
 ## 在线体验

@@ -1,4 +1,4 @@
-# Sub2API
+# Xiaosen AI Relay
 
 <div align="center">
 
@@ -8,15 +8,15 @@
 [![Redis](https://img.shields.io/badge/Redis-7+-DC382D.svg)](https://redis.io/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg)](https://www.docker.com/)
 
-<a href="https://trendshift.io/repositories/21823" target="_blank"><img src="https://trendshift.io/api/badge/repositories/21823" alt="Wei-Shaw%2Fsub2api | Trendshift" width="250" height="55"/></a>
-
-**サブスクリプションクォータ配分のための AI API ゲートウェイプラットフォーム**
+**Sub2API based open-source AI API relay gateway**
 
 [English](README.md) | [中文](README_CN.md) | 日本語
 
 </div>
 
 > **Sub2API が公式に使用しているドメインは `sub2api.org` と `pincc.ai` のみです。Sub2API の名称を使用している他のウェブサイトは、サードパーティによるデプロイやサービスであり、本プロジェクトとは一切関係がありません。ご利用の際はご自身で確認・判断をお願いします。**
+
+This repository is a sanitized open-source snapshot of a customized relay gateway deployment based on Sub2API. Private runtime data, credentials, build artifacts, logs, and local dependency folders are excluded.
 
 ---
 
